@@ -8,7 +8,6 @@
      <Content></Content>
      <h1 align="center" class="mb-2 text-4x1 font-weight-bolder tracking-tight text-gray-900 dark:text-white">Project Saya</h1 >
      <content2></content2>
-     <h1 align="center">Contact</h1>
      <Contact></Contact>
      <br><br><br><br><br><br>
      <FoterComponent></FoterComponent>
